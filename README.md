@@ -2,14 +2,23 @@
 Comandos a usar:
 <br>
 Almo: !almo keko1 azul
+<br>
 Almo: !almo keko2 blanco
+<br>
 Almo: !almo keko3 marino
+<br>
 Almo: !almo keko4 purpura
+<br>
 Almo: !almo keko5 rojo
+<br>
 Almo: !almo keko6 rosa
+<br>
 Almo: !almo keko7 turquesa
+<br>
 Almo: !almo keko8 verde
+<br>
 Almo: !almo keko9 verdeoscuro
+<br>
 
 <b>!almo sefos azul</b>
 
